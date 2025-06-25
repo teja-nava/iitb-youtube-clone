@@ -1,0 +1,50 @@
+export const videos = [
+  {
+    id: 1,
+    title: "IIT Bombay Campus Tour",
+    channel: "IITB Student Life",
+    views: "1.5M views",
+    time: "1 week ago",
+    thumbnail: "iitb-campus-tour.jpg",
+  },
+  {
+    id: 2,
+    title: "Mood Indigo Highlights 2024",
+    channel: "IITB Media",
+    views: "1.1M views",
+    time: "2 weeks ago",
+    thumbnail: "mood-indigo-2024.jpg",
+  },
+  {
+    id: 3,
+    title: "Techfest IIT Bombay 2024",
+    channel: "Techfest IITB",
+    views: "980K views",
+    time: "5 days ago",
+    thumbnail: "techfest-2024.jpg",
+  },
+  {
+    id: 4,
+    title: "A Day in the Life of an IITB Student",
+    channel: "Campus Chronicles",
+    views: "870K views",
+    time: "3 days ago",
+    thumbnail: "student-life-iitb.jpg",
+  },
+  {
+    id: 5,
+    title: "IIT Bombay Hostel Life Vlog",
+    channel: "IITB Diaries",
+    views: "740K views",
+    time: "1 month ago",
+    thumbnail: "iitb-hostel-life.jpg",
+  },
+  {
+    id: 6,
+    title: "Convocation Ceremony 2024",
+    channel: "IIT Bombay Official",
+    views: "630K views",
+    time: "4 weeks ago",
+    thumbnail: "iitb-convocation.jpg",
+  }
+];
